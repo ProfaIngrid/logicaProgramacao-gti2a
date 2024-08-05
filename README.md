@@ -12,7 +12,7 @@ O objetivo deste curso é fornecer uma compreensão sólida dos conceitos básic
 
 ## Sobre a Linguagem Python
 
-![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+![Python Logo](https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png)
 
 **Python** é uma linguagem de programação de alto nível, interpretada e de propósito geral. Criada por Guido van Rossum e lançada em 1991, Python é conhecida por sua sintaxe clara e legível, o que facilita o aprendizado para iniciantes e a eficiência no desenvolvimento para profissionais. É amplamente utilizada em diversos campos, como desenvolvimento web, análise de dados, inteligência artificial, automação e muito mais.
 
