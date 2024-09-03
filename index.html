@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de moedas</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <header>
+        <h1>Conversor de moedas</h1>
+    </header>
+    <main>
+        <div class="icon-input-nome">
+            <i class="fa fa-user" aria-hidden="true"></i>
+            <input type="text" placeholder="Seu nome">
+        </div>
+        <div class="icon-input-nome">
+            <i class="fa fa-money" aria-hidden="true"></i>
+            <input type="number" placeholder="Valor de conversão">
+        </div>
+        <div class="icon-input-nome">
+            <i class="fa fa-filter" aria-hidden="true"></i>
+            <select id="formConversor">
+                <option disabled selected>Selecione a moeda</option>
+                <option value="real">Real</option>
+                <option value="dolar">Dólar</option>
+                <option value="euro">Euro</option>
+            </select>
+        </div>
+        <div>
+            <input type="radio" name="formConverter">Real
+            <input type="radio" name="formConverter">Dólar
+            <input type="radio" name="formConverter">Euro
+        </div>
+        <button>
+            <i class="fa fa-refresh" aria-hidden="true"></i>
+            Converter
+        </button>
+    </main>
+    <footer>
+        <h6>&copy; ADS4A - Tecnicas de Programação</h6>
+    </footer>
+</body>
+</html>
