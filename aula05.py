@@ -46,6 +46,7 @@ dos valores positivos. Utilize o while e o for para
 resolver o mesmo exercício.
 '''
 #usando o while 
+'''
 contador = 1
 soma = 0
 
@@ -57,5 +58,21 @@ while contador <= 4:
     contador += 1
 
 print(soma)
+'''
+
+#Usando for
+soma = 0
+
+for i in range(4):
+    v = int(input("Digite um valor: "))
+    if v > 0:
+        soma += v
+
+print(soma)
+
+
+
+
+
 
 
