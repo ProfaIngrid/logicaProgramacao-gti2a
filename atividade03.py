@@ -8,7 +8,7 @@ cliente você deve armazenar:
     destino da viagem como chave e uma tupla com a data
     de partida e retorno
     -o sistema deve permitir a consulta de todas as 
-    viagens por nome de cliente e destino.
+    viagens por nome de cliente.
 '''
 ##1º Criar lista com o nome dos clientes
 clientes = ["Maria", "Antonia", "Edna", "Eder"]
