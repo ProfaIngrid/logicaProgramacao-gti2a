@@ -35,8 +35,8 @@ notas = {
     "João" : 5.6
 }
 
-
-
+print("nota de Maria: ", notas["Maria"])
+print("Notas: ", notas)
 
 
 
